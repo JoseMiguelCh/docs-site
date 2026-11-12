@@ -6,7 +6,7 @@ No. It never connects to anything.
 
 ## Where is my history stored?
 
-In `~/.pocket/history.jsonl`, one line per session or break. Delete the file to start over.
+In `~/.pocket/history.jsonl`, one line per session or break. Delete the file to start over. See the [glossary](glossary.md#history) for what history means.
 
 ## Can I change the length of a break?
 
