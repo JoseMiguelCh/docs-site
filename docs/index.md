@@ -7,4 +7,4 @@ how your day went.
 - [Configuration](configuration.md): session lengths, sounds and the daily goal.
 - [FAQ](faq.md): the questions people ask most.
 
-Installing Pocket Timer is covered on the installation page.
+- [Installation](installation.md): install Pocket Timer on macOS, Linux and Windows.
